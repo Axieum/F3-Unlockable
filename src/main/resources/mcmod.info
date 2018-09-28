@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "f3unlockable",
+        "name": "F3 Unlockable",
+        "description": "A Minecraft mod to restrict aspects of the F3 debug menu",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Axieum/F3-Unlockable",
+        "updateUrl": "",
+        "authorList": [
+            "Axieum"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
